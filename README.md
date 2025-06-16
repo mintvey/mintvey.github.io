@@ -1,3 +1,3 @@
 # Основная страница
 ## Заголовок
-https://mintvey.github.com/
+https://mintvey.github.io/
